@@ -1,0 +1,6 @@
+{
+  "name": "Boutique",
+  "description": "АИ-негізделген жеке стиль және виртуалды киім өлшеу платформасы",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
